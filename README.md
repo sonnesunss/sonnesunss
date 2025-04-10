@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonnesunss
-- 👀 I’m interested in Apple Platform App Development 
+- 👀 I’m interested in Apple App Development 
 - 🌱 I’m currently learning rustlang
 
 <!---
