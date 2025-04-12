@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonnesunss
 - 👀 I’m interested in Apple App Development 
-- 🌱 I’m currently learning rustlang
+- 🌱 I’m currently learning rustlang&Nextjs
 
 <!---
 sonnesunss/sonnesunss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
